@@ -1,2 +1,4 @@
 https://help.github.com/articles/set-up-git
 22073258+BijuzGit@users.noreply.github.com
+
+Changed the eMail privacy to Public
